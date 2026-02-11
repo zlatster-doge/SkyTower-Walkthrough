@@ -1,4 +1,4 @@
-### SkyTower Penetration Testing Lab (STAR Method)
+### SkyTower Penetration Testing Lab
 
 **Situation:**  
 Assigned a controlled penetration-testing lab (SkyTower) with the objective of obtaining a protected `flag.txt` file from the `/root` directory on an unknown Linux system.
